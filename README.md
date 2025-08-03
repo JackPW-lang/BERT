@@ -6,6 +6,8 @@
 
 ## LaTeX Documentation
 
+**LaTeX Documentation**: You can find the detailed documentation [here](BERT2.pdf) 
+
 ## Overview
 
 This project explores how well frozen vs. fine-tuned BERT embeddings perform on a real-world text classification task. We benchmarked probing methods like Logistic Regression and K-Nearest Neighbors using sentence-level embeddings, and compared those results to end-to-end fine-tuning of the entire BERT model.

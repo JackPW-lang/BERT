@@ -6,7 +6,7 @@
 
 ## LaTeX Documentation
 
-**LaTeX Documentation**: You can find the detailed documentation [here](BERT2.pdf) 
+**LaTeX Documentation**: You can find the detailed documentation [here](Bert2.pdf) 
 
 ## Overview
 
